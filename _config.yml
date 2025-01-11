@@ -1,0 +1,9 @@
+title: Cyberochronavip homepage
+
+description: My personal website
+
+author: Norbert Olszowski
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
